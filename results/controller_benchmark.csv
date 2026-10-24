@@ -1,0 +1,3 @@
+,Success Rate (%),Collision Rate (%),Average Steps,Average Turns,Average Minimum Distance
+Rule-Based,0.0,0.0,1500.0,143.0,0.6034120006397996
+Random Forest AI,0.0,100.0,265.0,84.0,0.3554849937070984
